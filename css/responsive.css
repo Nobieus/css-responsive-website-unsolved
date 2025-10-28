@@ -3,6 +3,10 @@
   * Add the media rule and the styles that are common within the TABLET and MOBILE views
   * Add the media rule and the styles that belong to the MOBILE view only
 */
+* {
+  overflow:scroll;
+}
+
 * .teammates-list::before,
 .teammates-list::after {
   display:none;
