@@ -68,7 +68,7 @@
 
 
 /* 👇👇👇 Add the media rule and the styles that are common within the TABLET and MOBILE views beneath 👇👇👇 */
-@media (max-width: 1023px) and (min-width: 360px) {
+@media (max-width: 1023px)  {
  header  {
   position:fixed;
   width: 100%;
